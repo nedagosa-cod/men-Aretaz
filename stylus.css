@@ -1,0 +1,6 @@
+.contenedor{
+    width: 100vw;
+}
+.contenedor img{
+    object-fit: cover;
+}
